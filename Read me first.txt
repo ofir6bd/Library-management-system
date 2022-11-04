@@ -1,0 +1,9 @@
+Hi Eliav,
+
+Few clerification before you start reviewing the project please:
+- The database files are pkl format so it's not readable.
+- The functions names are straight forward and intuetive so not always I put comments, depends on the function size
+- Book name is uniqe, no duplication allowed
+- Book ID can be added manually or automatically per user choice
+- Person name (Customer & Author) must contain at least 2 words
+- Valid age 6-120, 6 is the minimum age for registration as library customer
